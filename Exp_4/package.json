@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mongoose": "^8.13.2"
+    "mongoose": "^8.23.0"
   }
 }

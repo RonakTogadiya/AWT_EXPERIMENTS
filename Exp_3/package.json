@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "mongodb": "^6.13.1"
+    "mongodb": "^6.21.0"
   }
 }
