@@ -1,0 +1,13 @@
+{
+  "name": "exp_2_express",
+  "version": "1.0.0",
+  "description": "Express.js experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cookie-parser": "^1.4.7"
+  }
+}

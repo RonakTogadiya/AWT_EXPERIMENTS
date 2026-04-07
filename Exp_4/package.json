@@ -1,0 +1,12 @@
+{
+  "name": "exp_4_mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose experiment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mongoose": "^8.13.2"
+  }
+}
